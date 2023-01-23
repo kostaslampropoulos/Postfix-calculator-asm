@@ -1,4 +1,6 @@
-## This is a calculator implemented with the postfix method!
+# This is a calculator implemented with the postfix method!
+
+## How it work and how to operate it!
 
 1. First we read the expression from left to right.
 
