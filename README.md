@@ -14,6 +14,6 @@
 
 6. Checkout examples that are mention below in table.
 
-### Why we need a postfix Calculator:
+## Why we need a postfix Calculator:
 
 Infix expressions are readable and solvable by humans. We can easily distinguish the order of operators, and also can use the parenthesis to solve that part first during solving mathematical expressions. But computer cannot differentiate the operators and parenthesis easily, that’s why postfix conversion is needed.Compilers or command editor in computer and some calculators also convert expression to postfix first and then solve those expression to evaluate answer for the same.
